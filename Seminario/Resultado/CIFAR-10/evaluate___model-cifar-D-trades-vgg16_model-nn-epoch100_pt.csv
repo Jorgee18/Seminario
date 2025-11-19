@@ -1,0 +1,2 @@
+Model,pgd_natural,pgd_robust,pgd_drop,attack_succes_pgd,fgsm_natural,fgsm_robust,fgsm_drop,attack_success_fgsm,auto_natural,auto_robust,auto_drop,attack_success_auto
+{'./model-cifar-D-trades-vgg16/model-nn-epoch100.pt'},"tensor(0.8475, device='cuda:0')","tensor(0.1647, device='cuda:0')","tensor(0.6828, device='cuda:0')","tensor(0.8353, device='cuda:0')","tensor(0.8475, device='cuda:0')","tensor(0.3359, device='cuda:0')","tensor(0.5116, device='cuda:0')","tensor(0.6641, device='cuda:0')",0.859,0.03600000000000003,0.823,0.964

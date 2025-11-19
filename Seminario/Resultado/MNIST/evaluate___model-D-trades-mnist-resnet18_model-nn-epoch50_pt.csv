@@ -1,0 +1,2 @@
+Model,pgd_natural,pgd_robust,pgd_drop,attack_succes_pgd,fgsm_natural,fgsm_robust,fgsm_drop,attack_success_fgsm,auto_natural,auto_robust,auto_drop,attack_success_auto
+{'./model-D-trades-mnist-resnet18/model-nn-epoch50.pt'},"tensor(0.9935, device='cuda:0')","tensor(0.9727, device='cuda:0')","tensor(0.0208, device='cuda:0')","tensor(0.0273, device='cuda:0')","tensor(0.9935, device='cuda:0')","tensor(0.9912, device='cuda:0')","tensor(0.0023, device='cuda:0')","tensor(0.0088, device='cuda:0')",0.993,0.989,0.0040000000000000036,0.01100000000000001

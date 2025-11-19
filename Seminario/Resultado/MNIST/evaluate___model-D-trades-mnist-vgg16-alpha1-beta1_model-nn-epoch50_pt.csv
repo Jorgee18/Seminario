@@ -1,0 +1,2 @@
+Model,pgd_natural,pgd_robust,pgd_drop,attack_succes_pgd,fgsm_natural,fgsm_robust,fgsm_drop,attack_success_fgsm,auto_natural,auto_robust,auto_drop,attack_success_auto
+{'./model-D-trades-mnist-vgg16-alpha1-beta1/model-nn-epoch50.pt'},"tensor(0.9948, device='cuda:0')","tensor(0.9281, device='cuda:0')","tensor(0.0667, device='cuda:0')","tensor(0.0719, device='cuda:0')","tensor(0.9948, device='cuda:0')","tensor(0.9926, device='cuda:0')","tensor(0.0022, device='cuda:0')","tensor(0.0074, device='cuda:0')",0.99,0.987,0.0030000000000000027,0.013000000000000012

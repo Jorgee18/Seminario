@@ -1,0 +1,2 @@
+Model,pgd_natural,pgd_robust,pgd_drop,attack_succes_pgd,fgsm_natural,fgsm_robust,fgsm_drop,attack_success_fgsm,auto_natural,auto_robust,auto_drop,attack_success_auto
+{'./model-cifar-D-trades-resnet18/model-nn-epoch100.pt'},"tensor(0.8528, device='cuda:0')","tensor(0.2690, device='cuda:0')","tensor(0.5838, device='cuda:0')","tensor(0.7310, device='cuda:0')","tensor(0.8528, device='cuda:0')","tensor(0.4060, device='cuda:0')","tensor(0.4468, device='cuda:0')","tensor(0.5940, device='cuda:0')",0.854,0.14200000000000002,0.712,0.858
