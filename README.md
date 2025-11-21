@@ -9,16 +9,3 @@ En este seminario se aborda el problema de <em>trade-off</em> en redes neuronale
 
 ## Propuesta
 Se presenta un enfoque basado en el método <strong>TRADES</strong>, donde el parámetro de regularización λ se redefine como una función dinámica dependiente de la entrada. Esto permite que el modelo ajuste de manera adaptativa el peso entre muestras adversariales y estándar, buscando un balance más eficiente entre robustez y precisión.A través de un estudio comparativo de distintos métodos de defensa, se analizan los efectos de este <em>trade-off</em> sobre el rendimiento general del modelo. El objetivo de la propuesta es optimizar el equilibrio entre robustez y precisión, manteniendo competitividad frente a ataques adversariales y considerando métricas de evaluación actuales.
-
-## Disposición de los archivos
-a
-
-
-```mermaid
-graph TD
-    A[Comenzar] --> B(Procesar);
-    B --> C{Decisión};
-    C -->|Sí| D[Finalizar];
-    C -->|No| E[Revisar];
-    E --> B;
-```
